@@ -3,9 +3,9 @@
   
 # 👋 Hi, I'm **Zain Ul Abideen**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+Everything;Breaking+Things+to+Understand+How+They+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+Everything;Breaking+Things+to+Understand+How+They+Work;Full-Stack+Developer+in+the+Making" alt="Typing SVG" />
 
-**BSCS (2025 - 2029)** | 🚀 First-year explorer | 🧠 Lifelong learner
+**BSCS (2025 - 2029)** | 🚀 First-year explorer | 🧠 Lifelong learner | 💻 Problem Solver
 
 ---
 
@@ -13,42 +13,45 @@
 
 ## 🎯 About Me
 
-<img align="right" src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge" />
+<img align="right" src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 
-> A first-year CS student on a mission to understand how things work by building them from scratch.
+> A passionate first-year CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the 'why' behind the code.
 
-- 🔍 **Current Focus:** Diving deep into data structures, algorithms, and ML fundamentals
-- 🧠 **Philosophy:** Build → Break → Learn → Repeat
-- 💡 **Passion:** From game engines to network analysis, I explore diverse CS fields through practical projects
-- 🌱 **Mindset:** Still early, still learning, and absolutely loving the journey
+- 🔍 **Current Focus:** Mastering data structures, algorithms, ML fundamentals, and game development
+- 🧠 **Philosophy:** Build → Break → Learn → Repeat → Master
+- 💡 **Passion:** Exploring diverse CS fields through practical, real-world projects
+- 🌱 **Mindset:** Still early, still learning, and absolutely loving every moment of the journey
+- 🎯 **Goal:** Become a versatile software engineer who can build anything
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🗣️ Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=flat-square&logo=python&logoColor=white)
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### Game Dev & Graphics
-![SFML](https://img.shields.io/badge/SFML-82B1FF?style=flat-square&logo=cplusplus&logoColor=white)
+### 🎮 Game Dev & Graphics
+![SFML](https://img.shields.io/badge/SFML-82B1FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Game%20Physics](https://img.shields.io/badge/Game%20Physics-FF6B6B?style=for-the-badge)
 
-### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+### 🛠️ Tools & Development
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 </div>
 
@@ -56,96 +59,172 @@
 
 ## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Commodity Price Network Analysis
+**Pakistan's CPI Data (2023-2026)**
+
+**Tech Stack:** Python · NetworkX · Pandas · Matplotlib · Data Science
+
+A sophisticated graph-theoretic study analyzing economic networks and consumer price indices. This project applies advanced network analysis techniques to visualize complex economic relationships, identify commodity price trends, and derive insights from real-world CPI data.
+
+**Key Highlights:**
+- 📈 Network graph analysis with 50+ nodes
+- 🔗 Economic relationship mapping
+- 📊 Statistical trend analysis
+- 🎨 Advanced visualizations
+
+[**→ Explore Repository**](https://github.com/zain333ux/Commodity-Price-Network-Analysis-A-Graph-Theoretic-Study-of-Pakistan-s-CPI-Data-2023-2026-.git)
+
+`#NetworkAnalysis` `#Economics` `#GraphTheory` `#DataVisualization` `#CPI`
+
+</td>
+<td width="50%">
+
+### 🎮 Metal Slug - Game Engine
+**2D Side-Scrolling Game**
+
+**Tech Stack:** C++ · SFML · OOP · Game Physics · AI
+
+A fully-functional 2D game engine inspired by the classic Metal Slug arcade game. Built from scratch using SFML with a complete physics engine, intelligent enemy AI, and polished gameplay mechanics.
+
+**Key Highlights:**
+- ⚙️ Custom physics engine
+- 🤖 Enemy AI with pathfinding
+- 🎯 Collision detection system
+- 🎨 Sprite animation pipeline
+- 🔊 Event handling system
+
+[**→ Explore Repository**](https://github.com/zain333ux/Metal-Slug.git)
+
+`#GameDev` `#Graphics` `#OOP` `#Physics` `#Algorithms`
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2">
+
+### 📈 Student Performance Prediction
+**Gradient Descent Optimizer**
+
+**Tech Stack:** Python · NumPy · Machine Learning · Calculus · Optimization
+
+An in-depth exploration of gradient descent optimization algorithms implemented from first principles. This project demonstrates the mathematical foundations of machine learning through practical application in predicting student academic performance.
+
+**Key Highlights:**
+- 🔬 From-scratch gradient descent implementation
+- 📊 Multiple optimization variants (BGD, SGD, Momentum)
+- 📉 Convergence analysis & visualization
+- 🎯 Performance prediction model
+- 📚 Mathematical deep-dive with calculus
+
+[**→ Explore Repository**](https://github.com/zain333ux/Student-Performance-Prediction-using-Gradient-Descent.git)
+
+`#MachineLearning` `#Optimization` `#Mathematics` `#Algorithms` `#DataScience`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 🌐 Commodity Price Network Analysis - Pakistan's CPI Data (2023-2026)
-**Python · NetworkX · Pandas · Data Analysis**
+[![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zain333ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/zain333ux)
 
-A comprehensive graph-theoretic study analyzing economic networks and consumer price indices using advanced network analysis. Visualizing complex economic relationships and commodity price trends through sophisticated network visualization and statistical methods.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zain333ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/zain333ux)
 
-[View Repository →](https://github.com/zain333ux/Commodity-Price-Network-Analysis-A-Graph-Theoretic-Study-of-Pakistan-s-CPI-Data-2023-2026-.git) | `#NetworkAnalysis` `#Economics` `#DataVisualization` `#CPI`
-
----
-
-### 🎮 Metal Slug - 2D Side-Scrolling Game
-**C++ · SFML · Object-Oriented Programming · Game Physics**
-
-A classic-inspired 2D side-scrolling game engine built from scratch using SFML. Features complete physics engine, collision detection, sprite animation, enemy AI, and event handling. A practical deep-dive into game development fundamentals and real-time graphics programming.
-
-[View Repository →](https://github.com/zain333ux/Metal-Slug.git) | `#GameDev` `#Graphics` `#OOP` `#Physics` `#AI`
-
----
-
-### 📈 Student Performance Prediction using Gradient Descent
-**Python · NumPy · Machine Learning · Calculus · Optimization**
-
-Implemented gradient descent optimization from first principles to predict student performance. Explored various optimization algorithms, convergence analysis, and different variants (Batch GD, SGD, momentum). Understanding ML at the mathematical core through practical application.
-
-[View Repository →](https://github.com/zain333ux/Student-Performance-Prediction-using-Gradient-Descent.git) | `#MachineLearning` `#Optimization` `#Mathematics` `#Regression`
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zain333ux&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/zain333ux)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Learning Roadmap
 
 <div align="center">
 
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zain333ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zain333ux&layout=compact&theme=tokyonight&hide_border=true)
+| Phase | Focus Areas | Current Status |
+|:---:|:---|:---:|
+| **Foundation** | Data Structures, Algorithms, OOP | 🔄 **In Progress** |
+| **Core CS** | Systems Design, Databases, Networks | 📚 **Upcoming** |
+| **Specialization** | ML/AI, Game Dev, Backend Systems | 🤔 **Exploring** |
+| **Advanced** | Real-World Applications & Projects | 🎯 **Next Phase** |
+| **Mastery** | Open Source & Industry Contribution | 🚀 **Future Goal** |
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 🚀 What I'm Currently Building
 
 <div align="center">
 
-| Phase | Focus | Status |
-|-------|-------|--------|
-| **Foundation** | Data Structures, Algorithms, OOP | 🔄 In Progress |
-| **Specialization** | ML/AI, Game Dev, or Systems? | 🤔 Exploring |
-| **Advanced** | Building Real-World Projects | 🎯 Coming Soon |
-| **Mastery** | Contributing to Open Source | 🚀 On the Horizon |
+| What | Status | Timeline |
+|------|--------|----------|
+| 🔨 Building projects across multiple CS domains | 🔄 Active | Ongoing |
+| 📚 Mastering data structures & algorithm design | 🔄 Active | Semester 1-2 |
+| 🤖 Experimenting with ML/AI fundamentals | 🔄 Active | Semester 2+ |
+| 🎮 Deep-diving into game development | 🔄 Active | Summer '26 |
+| 💻 Strengthening competitive programming skills | 🔄 Active | Ongoing |
+| 🌐 Building full-stack web projects | 📝 Planning | Semester 3 |
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
-
-- 🔨 Currently building projects across multiple CS domains
-- 📚 Deeply studying data structures and algorithm design
-- 🤖 Experimenting with machine learning fundamentals
-- 🎮 Exploring game development and graphics programming
-- 💪 Strengthening problem-solving skills through competitive programming
-
----
-
-## 📬 Let's Connect!
+## 🔗 Let's Connect & Collaborate!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abideen-392623353)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zain333ux)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzain6268@gmail.com)
+### Choose Your Way to Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/zain-ul-abideen-392623353)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zain333ux)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:uzain6268@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-00D9FF?style=for-the-badge&labelColor=1a1a1a)](https://github.com/zain333ux)
 
 </div>
 
 ---
 
-<div align="center">
+## 💡 Philosophy & Approach
 
-### 💬 Open to collaboration, discussions, and learning together!
+```
+"I don't just write code. I build understanding."
 
-<img src="https://img.shields.io/badge/Ask%20me%20about%20anything-click%20to%20email-blue?style=flat&logo=gmail" />
+Build → Break → Learn → Iterate → Master
+```
+
+I believe in:
+- 🔍 **Deep Learning**: Understanding the 'why' behind every concept
+- 🛠️ **Hands-On Building**: Learning through practical projects
+- 🤝 **Collaboration**: Growing together with the developer community
+- 📈 **Continuous Improvement**: Every project teaches something new
 
 ---
 
-**🎓 FAST-NUCES · BSCS · 2025–2029**
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zain333ux&style=flat-square&color=blue" alt="Profile Views" />
+### 📬 Open for Opportunities
+
+🎓 Internship seekers welcome | 🤝 Collaboration opportunities | 💬 Mentorship available
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Every+line+of+code+tells+a+story." alt="Quote" />
+
+---
+
+**🎓 FAST-NUCES · Bachelor of Science in Computer Science**  
+**📍 Class of 2029 · Currently: Semester 1**
+
+<img src="https://komarev.com/ghpvc/?username=zain333ux&style=flat-square&color=00D9FF" alt="Profile Views" />
+
+**Last Updated:** 2026-06-11
 
 </div>
