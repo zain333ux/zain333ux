@@ -58,30 +58,30 @@
 
 <div align="center">
 
-### 🌐 Economic Network & CPI Analyzer
+### 🌐 Commodity Price Network Analysis - Pakistan's CPI Data (2023-2026)
 **Python · NetworkX · Pandas · Data Analysis**
 
-Analyzing economic networks and consumer price indices using graph theory and statistical methods. Visualizing complex economic relationships through network visualization.
+A comprehensive graph-theoretic study analyzing economic networks and consumer price indices using advanced network analysis. Visualizing complex economic relationships and commodity price trends through sophisticated network visualization and statistical methods.
 
-[View Project →](https://github.com/zain333ux) | `#NetworkAnalysis` `#Economics` `#DataVisualization`
-
----
-
-### 🎮 2D Side-Scrolling Game Engine
-**C++ · SFML · Object-Oriented Programming**
-
-Built a complete 2D game engine from scratch using SFML. Implemented physics, collision detection, sprite animation, and event handling. A practical deep-dive into game development fundamentals.
-
-[View Project →](https://github.com/zain333ux) | `#GameDev` `#Graphics` `#OOP` `#Physics`
+[View Repository →](https://github.com/zain333ux/Commodity-Price-Network-Analysis-A-Graph-Theoretic-Study-of-Pakistan-s-CPI-Data-2023-2026-.git) | `#NetworkAnalysis` `#Economics` `#DataVisualization` `#CPI`
 
 ---
 
-### 📈 Gradient Descent Optimizer
-**Python · NumPy · Machine Learning · Calculus**
+### 🎮 Metal Slug - 2D Side-Scrolling Game
+**C++ · SFML · Object-Oriented Programming · Game Physics**
 
-Implemented gradient descent from first principles. Explored optimization algorithms, convergence rates, and different variants (SGD, momentum, Adam). Understanding ML at the mathematical core.
+A classic-inspired 2D side-scrolling game engine built from scratch using SFML. Features complete physics engine, collision detection, sprite animation, enemy AI, and event handling. A practical deep-dive into game development fundamentals and real-time graphics programming.
 
-[View Project →](https://github.com/zain333ux) | `#MachineLearning` `#Optimization` `#Mathematics`
+[View Repository →](https://github.com/zain333ux/Metal-Slug.git) | `#GameDev` `#Graphics` `#OOP` `#Physics` `#AI`
+
+---
+
+### 📈 Student Performance Prediction using Gradient Descent
+**Python · NumPy · Machine Learning · Calculus · Optimization**
+
+Implemented gradient descent optimization from first principles to predict student performance. Explored various optimization algorithms, convergence analysis, and different variants (Batch GD, SGD, momentum). Understanding ML at the mathematical core through practical application.
+
+[View Repository →](https://github.com/zain333ux/Student-Performance-Prediction-using-Gradient-Descent.git) | `#MachineLearning` `#Optimization` `#Mathematics` `#Regression`
 
 </div>
 
