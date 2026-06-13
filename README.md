@@ -3,7 +3,7 @@
   
 # 👋 Hi, I'm **Zain Ul Abideen**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+Everything;Breaking+Things+to+Understand+How+They+Work;Full-Stack+Developer+in+the+Making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+CS;Open+Source+Enthusiast" alt="Typing Animation" />
 
 **BSCS (2025 - 2029)** | 🚀 Explorer | 🧠 Lifelong learner | 💻 Problem Solver
 
@@ -15,7 +15,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 
-> A passionate CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the 'why' behind the code.
+> A passionate CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the underlying mechanics.
 
 - 🔍 **Current Focus:** Mastering data structures, algorithms, ML fundamentals, and game development
 - 🧠 **Philosophy:** Build → Break → Learn → Repeat → Master
@@ -68,7 +68,7 @@
 
 **Tech Stack:** Python · NetworkX · Pandas · Matplotlib · Data Science
 
-A sophisticated graph-theoretic study analyzing economic networks and consumer price indices. This project applies advanced network analysis techniques to visualize complex economic relationships, identify commodity price trends, and derive insights from real-world CPI data.
+A sophisticated graph-theoretic study analyzing economic networks and consumer price indices. This project applies advanced network analysis techniques to visualize complex economic relationships, identifying key patterns and dependencies.
 
 **Key Highlights:**
 - 📈 Network graph analysis with 50+ nodes
@@ -111,7 +111,7 @@ A fully-functional 2D game engine inspired by the classic Metal Slug arcade game
 
 **Tech Stack:** Python · NumPy · Machine Learning · Calculus · Optimization
 
-An in-depth exploration of gradient descent optimization algorithms implemented from first principles. This project demonstrates the mathematical foundations of machine learning through practical application in predicting student academic performance.
+An in-depth exploration of gradient descent optimization algorithms implemented from first principles. This project demonstrates the mathematical foundations of machine learning through practical applications.
 
 **Key Highlights:**
 - 🔬 From-scratch gradient descent implementation
@@ -186,7 +186,7 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/zain-ul-abideen-392623353)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zain333ux)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:uzain6268@gmail.com)
-[![Portfolio](https://portfolio-liard-eight-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-liard-eight-52.vercel.app/)
 
 </div>
 
@@ -216,15 +216,15 @@ I believe in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Every+line+of+code+tells+a+story." alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Every+line+of+code+tells+a+story!" alt="Footer Animation" />
 
 ---
 
 **🎓 FAST-NUCES · Bachelor of Science in Computer Science**  
-**📍 Class of 2029 **
+**📍 Class of 2029**
 
 <img src="https://komarev.com/ghpvc/?username=zain333ux&style=flat-square&color=00D9FF" alt="Profile Views" />
 
-**Last Updated:** 2026-06-11
+**Last Updated:** 2026-06-13
 
 </div>
