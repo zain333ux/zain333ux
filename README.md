@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+Everything;Breaking+Things+to+Understand+How+They+Work;Full-Stack+Developer+in+the+Making" alt="Typing SVG" />
 
-**BSCS (2025 - 2029)** | 🚀 First-year explorer | 🧠 Lifelong learner | 💻 Problem Solver
+**BSCS (2025 - 2029)** | 🚀 Explorer | 🧠 Lifelong learner | 💻 Problem Solver
 
 ---
 
@@ -15,7 +15,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 
-> A passionate first-year CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the 'why' behind the code.
+> A passionate CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the 'why' behind the code.
 
 - 🔍 **Current Focus:** Mastering data structures, algorithms, ML fundamentals, and game development
 - 🧠 **Philosophy:** Build → Break → Learn → Repeat → Master
@@ -164,14 +164,14 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 
 <div align="center">
 
-| What | Status | Timeline |
-|------|--------|----------|
-| 🔨 Building projects across multiple CS domains | 🔄 Active | Ongoing |
-| 📚 Mastering data structures & algorithm design | 🔄 Active | Semester 1-2 |
-| 🤖 Experimenting with ML/AI fundamentals | 🔄 Active | Semester 2+ |
-| 🎮 Deep-diving into game development | 🔄 Active | Summer '26 |
-| 💻 Strengthening competitive programming skills | 🔄 Active | Ongoing |
-| 🌐 Building full-stack web projects | 📝 Planning | Semester 3 |
+| What | Status |
+|------|--------|
+| 🔨 Building projects across multiple CS domains | 🔄 Active |
+| 📚 Mastering data structures & algorithm design | 🔄 Active |
+| 🤖 Experimenting with ML/AI fundamentals | 🔄 Active |
+| 🎮 Deep-diving into game development | 🔄 Active |
+| 💻 Strengthening competitive programming skills | 🔄 Active |
+| 🌐 Building full-stack web projects | 📝 Planning | 
 
 </div>
 
@@ -186,7 +186,7 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/zain-ul-abideen-392623353)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zain333ux)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:uzain6268@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-00D9FF?style=for-the-badge&labelColor=1a1a1a)](https://github.com/zain333ux)
+[![Portfolio](https://portfolio-liard-eight-52.vercel.app/)
 
 </div>
 
@@ -212,7 +212,7 @@ I believe in:
 
 ### 📬 Open for Opportunities
 
-🎓 Internship seekers welcome | 🤝 Collaboration opportunities | 💬 Mentorship available
+🎓 Internship | 🤝 Collaboration | 💬 Learning Opportunities
 
 ---
 
@@ -221,7 +221,7 @@ I believe in:
 ---
 
 **🎓 FAST-NUCES · Bachelor of Science in Computer Science**  
-**📍 Class of 2029 · Currently: Semester 1**
+**📍 Class of 2029 **
 
 <img src="https://komarev.com/ghpvc/?username=zain333ux&style=flat-square&color=00D9FF" alt="Profile Views" />
 
