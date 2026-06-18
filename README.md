@@ -3,7 +3,7 @@
   
 # 👋 Hi, I'm **Zain Ul Abideen**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Learning+CS;Open+Source+Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+FAST-NUCES;Building+Projects%2C+Breaking+Limits;Learning+ML%2C+Game+Dev%2C+Web+Tech;Future+Software+Engineer" alt="Typing SVG" />
 
 **BSCS (2025 - 2029)** | 🚀 Explorer | 🧠 Lifelong learner | 💻 Problem Solver
 
@@ -15,7 +15,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 
-> A passionate CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding the underlying mechanics.
+> A passionate CS student on a mission to understand how things work by building them from scratch. I believe the best way to learn is through hands-on projects, breaking things, and understanding systems deeply.
 
 - 🔍 **Current Focus:** Mastering data structures, algorithms, ML fundamentals, and game development
 - 🧠 **Philosophy:** Build → Break → Learn → Repeat → Master
@@ -68,7 +68,7 @@
 
 **Tech Stack:** Python · NetworkX · Pandas · Matplotlib · Data Science
 
-A sophisticated graph-theoretic study analyzing economic networks and consumer price indices. This project applies advanced network analysis techniques to visualize complex economic relationships, identifying key patterns and dependencies.
+A sophisticated graph-theoretic study analyzing economic networks and consumer price indices. This project applies advanced network analysis techniques to visualize complex economic relationships, market dependencies, and pricing patterns.
 
 **Key Highlights:**
 - 📈 Network graph analysis with 50+ nodes
@@ -111,7 +111,7 @@ A fully-functional 2D game engine inspired by the classic Metal Slug arcade game
 
 **Tech Stack:** Python · NumPy · Machine Learning · Calculus · Optimization
 
-An in-depth exploration of gradient descent optimization algorithms implemented from first principles. This project demonstrates the mathematical foundations of machine learning through practical applications.
+An in-depth exploration of gradient descent optimization algorithms implemented from first principles. This project demonstrates the mathematical foundations of machine learning through practical model training and performance analysis.
 
 **Key Highlights:**
 - 🔬 From-scratch gradient descent implementation
@@ -138,7 +138,7 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zain333ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/zain333ux)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zain333ux&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/zain333ux)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zain333ux)](https://git.io/streak-stats)
 
 </div>
 
@@ -216,7 +216,7 @@ I believe in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Every+line+of+code+tells+a+story!" alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Every+line+of+code+is+a+step+forward;Open+to+internships+and+collaborations" alt="Footer Typing SVG" />
 
 ---
 
