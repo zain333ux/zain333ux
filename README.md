@@ -138,7 +138,7 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zain333ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/zain333ux)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zain333ux)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zain333ux&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
