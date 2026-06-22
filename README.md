@@ -144,19 +144,6 @@ An in-depth exploration of gradient descent optimization algorithms implemented 
 
 ---
 
-## 🎓 Learning Roadmap
-
-<div align="center">
-
-| Phase | Focus Areas | Current Status |
-|:---:|:---|:---:|
-| **Foundation** | Data Structures, Algorithms, OOP | 🔄 **In Progress** |
-| **Core CS** | Systems Design, Databases, Networks | 📚 **Upcoming** |
-| **Specialization** | ML/AI, Game Dev, Backend Systems | 🤔 **Exploring** |
-| **Advanced** | Real-World Applications & Projects | 🎯 **Next Phase** |
-| **Mastery** | Open Source & Industry Contribution | 🚀 **Future Goal** |
-
-</div>
 
 ---
 
